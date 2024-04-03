@@ -1,0 +1,26 @@
+.main-container{
+    border-style: solid;
+    border-color: black;
+   
+}
+.heading{
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 30px;
+    color: blue;
+}
+.image{
+    margin-left:500px;
+    height: 200px;
+    width: 200px;
+}
+.table{
+    text-align:center;
+    margin-left: 350px;
+    margin-top: 10px;
+   width: 500px;
+
+}
+.luck{
+    margin-left: 20px;
+}
